@@ -11,4 +11,4 @@ export const urls = [
   "https://example.com/5",
 ];
 
-export const whatsappLink = "https://wa.me/1234567890"; // ganti dengan nomor WA Kit Anda
+export const whatsappLink = "https://wa.me/6281216776580"; // ganti dengan nomor WA Kit Anda
